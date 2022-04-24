@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thisaru Kaluthotage</h1>
 <h3 align="center">I am an individual who is willing to involve in challenging work where I can utilize skills and creatively involve with the system that effectively contributes to the growth of the organization.</h3>
 
-- 🔭 I’m currently working at **Sysco LABS Sri Lanka**
+- 🔭 I’m currently working at **Mitra Innovation Sri Lanka**
 
 - 🌱 I’m currently learning **Apache Beam, Kafka, Flink, AWS**
 
