@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thisaru Kaluthotage</h1>
-<h3 align="center">I am an individual who is willing to involve in challenging work where I can utilize skills and creatively involve with the System that effectively
-contributes to the growth of the organization. As a Software Engineer, I have always been motivated by challenging and creative work.</h3>
+<h3 align="center">I am an individual who is willing to involve in challenging work where I can utilize skills and creatively involve with the System that effectively contributes to the growth of the organization. As a Software Engineer, I have always been motivated by challenging and creative work.</h3>
 
 - 🔭 I’m currently working at **Mitra Innovation Sri Lanka**
 
