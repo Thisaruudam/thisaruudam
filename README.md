@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thisaru Kaluthotage</h1>
-<h3 align="left">I am an individual who is willing to involve in challenging work where I can utilize skills and creatively involve with the System that effectively contributes to the growth of the organization. As a Software Engineer, I have always been motivated by challenging and creative work.</h3>
+<h3 align="left">I am a Software Engineer with a Computer Science degree and 4 years of experience, I am skilled in delivering high-quality software solutions. I have a strong foundation in computer science concepts and practical experience in Java development, and I am a proactive problem solver. I have a track record of working effectively in teams and communicating with stakeholders. I am excited to bring my skills and experience to a new opportunity and make a positive impact.</h3>
 
 - 🔭 I’m currently working at **Mitra Innovation Sri Lanka**
 
