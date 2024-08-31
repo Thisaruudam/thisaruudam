@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thisaru Kaluthotage</h1>
-<h3 align="left">I am a Software Engineer with a Computer Science degree and 4 years of experience, I am skilled in delivering high-quality software solutions. I have a strong foundation in computer science concepts and practical experience in Java development, and I am a proactive problem solver. I have a track record of working effectively in teams and communicating with stakeholders. I am excited to bring my skills and experience to a new opportunity and make a positive impact.</h3>
+<h3 align="left">Experienced Engineer with over 5 years of hands-on experience, possessing a robust Java background, adept at translating requirements into effective solutions and collaborating in cross-functional teams. Pursuing a Master's in Big Data Analytics for continuous skill enhancement.</h3>
 
-- 🔭 I’m currently working at **Mitra Innovation Sri Lanka**
+- 🔭 I’m currently working at **Novigi Sri Lanka**
 
-- 🌱 I’m currently learning **Apache Beam, Kafka, Flink, AWS**
+- 🌱 I’m currently learning **NodeJS, Apache Beam, Kafka, Flink, AWS**
 
 - 📫 How to reach me **thisaruudam@gmail.com**
 
